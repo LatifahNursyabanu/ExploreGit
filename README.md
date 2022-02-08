@@ -7,3 +7,8 @@ Belajar kelas Pengantar Git dan Github (Progres 47%)
 * Belajar tentang apa itu Git dan alasan menggunakannya.
 
 * Belajar tools yang dapat digunakan untuk menjalankan repository Git.
+
+tanda '#' dipakai untuk heading
+tanda '==' dipakai untuk subheading
+tanda '**' dipakai untuk *italic*
+tanda '__' dipakai untuk _bold_
