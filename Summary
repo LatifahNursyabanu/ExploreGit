@@ -1,6 +1,10 @@
 ##Sejarah singkat
 sejarah berdirinya platform Git, bagaimana Linus Torvalds bersama tim membangun platform tersebut pada tahun 2005. Git dibangun dengan tujuan agar dapat melakukan kolaborasi antar tim serta bagaimana proyek dapat dikontrol dengan baik.
 GitHub merupakan sebuah perusahaan layanan hosting repository Git berbasis Cloud. Dengan menggunakan GitHub, berkolaborasi antar anggota tim menjadi lebih mudah. GitHub adalah tools yang sangat populer karena mudah digunakan.
+Version Control System merupakan tools untuk mengatur suatu perubahan dan konfigurasi dari suatu aplikasi, termasuk juga source code. Setiap perubahan yang dilakukan akan dicatat, sehingga memperjelas siapa yang telah melakukan perubahan tersebut. Selain itu, version control juga berfungsi sebagai backup files. Dengan begitu, akan mempermudah pencarian bug atau masalah.
+README 
+Markdown merupakan bahasa markah (markup language) ringan yang dapat digunakan untuk menambahkan format pada dokumen teks biasa [1]. Saat ini Markdown menjadi salah satu bahasa markup yang cukup populer. Lalu, apa itu bahasa markah? 
+Bahasa markah (markup language) merupakan sistem modern untuk memberikan keterangan pada dokumen dengan sintaksis yang dapat dibedakan dari kontennya. Biasanya ia menggunakan tag atau tanda tertentu untuk mendefinisikan elemen dalam dokumen, dikenal dari istilah "marking up" (memberikan penanda). Begitu juga dengan bahasa markdown yang merupakan salah satu bahasa markup yang ringan. Jadi ketika ingin menambahkan format pada teks, Anda cukup menambahkan tanda atau tags pada teks tersebut
 
 ##istilah
 <br>Git Repository  : Media penyimpanan file proyek di dalam Git server.
